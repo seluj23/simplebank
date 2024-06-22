@@ -3,7 +3,7 @@ name: ci-test
 on:
   push:
     branches: [ main ]
-  pull_requrest:
+  pull_request:
     brancers: [ main ]
 
 jobs:
