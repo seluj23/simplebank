@@ -8,6 +8,7 @@ import (
 	db "github.com/seluj23/simplebank/db/sqlc"
 	"github.com/seluj23/simplebank/util"
 
+	_ "github.com/golang/mock/mockgen/model"
 	_ "github.com/lib/pq"
 )
 
